@@ -1,7 +1,3 @@
-## 🌍Language Versions / 语言版本
-
-🇺🇸[English](README.md) 🇨🇳[中文](README_CN.md)
-
 ## 🚀 **AstroVerse**: 一款用于视觉叙事的Astro主题
 
 AstroVerse是专为引人入胜的图文叙事而设计的Astro主题。
@@ -101,14 +97,17 @@ export function getCategoryMetadata(category: string) {
 
 // 头部链接, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/origami/1/", title: "origami" },
+  { href: "/category/code/1/", title: "code" },
+  { href: "/category/note/1/", title: "note" },
+  { href: "/category/life/1/", title: "life" },
+    
+  }
 ];
 
 // 底部链接, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
+  { href: "/posts/我的個人博客/", title: "自我介紹" },
   { href: "/posts/tailwind-typography/", title: "Tailwind" },
   { href: "/tags/", title: "Tags" },
 ];

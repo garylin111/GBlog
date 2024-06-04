@@ -11,8 +11,12 @@
             "id": "e8930ab15575547b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/content/posts/中國大鍬的飼育學習.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/content/posts/中國大鍬的飼育學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/content/posts/中國大鍬的飼育學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/content/posts/中國大鍬的飼育學習.md"
+              }
             }
           }
         ]
@@ -139,5 +147,16 @@
     }
   },
   "active": "e8930ab15575547b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "src/content/posts/My first blog.md",
+    "src/content/posts/中國大鍬的飼育學習.md",
+    "中國大鍬 2.jpg",
+    "中國大鍬 1.jpg",
+    "中國大鍬.jpg",
+    "0640a71eab994fd5a0aad71b1528b45 2.jpg",
+    "0640a71eab994fd5a0aad71b1528b45 1.jpg",
+    "0640a71eab994fd5a0aad71b1528b45.jpg",
+    "未命名.md",
+    "public/astroverse-lighthouse-score.svg"
+  ]
 }
