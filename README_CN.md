@@ -10,15 +10,6 @@ AstroVerse是专为引人入胜的图文叙事而设计的Astro主题。
 
 适用于希望通过引人注目的视觉效果和引人入胜的散文使自己的故事脱颖而出的博客作者和内容创作者，AstroVerse为创造沉浸式和具有影响力的数字体验提供了平台。
 
-<img src="public/screenshot.webp" alt="AstroVerse 屏幕截图" />
-
-## 💯网站性能评分
-
-<p align="center">
-  <a href="https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fastroverse.inote.xyz%2F">
-    <img width="510" alt="AstroVerse 网站性能评分" src="public/astroverse-lighthouse-score.svg">
-  <a>
-</p>
 
 ## 🎉 特色功能
 
@@ -36,15 +27,6 @@ AstroVerse是专为引人入胜的图文叙事而设计的Astro主题。
 - ✅ 分页以方便导航
 - ✅ 一键使用Prettier格式化代码
 
-## 🎡 在线演示
-
-在操作中体验[**AstroVerse**](https://astroverse.inote.xyz)。
-
-## 🌆 项目展示
-
-分享您使用AstroVerse构建的项目！在我们的展示中打开一个标题为“展示提交”的问题，附上您项目的详细信息，以便在我们的展示中予以展示。
-
-- [**iNote**](https://inote.xyz)
 
 ## 💻 本地运行
 
@@ -153,12 +135,3 @@ export const SEARCH_PAGE_DESCRIPTION = `在${SITE
 _TITLE}上搜索所有内容`;
 ```
 
-## 部署
-
-点击下面的按钮在Vercel上开始部署您的项目：
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/isooosi/astroverse)
-
-## ✨ 加入并贡献
-
-您的贡献使AstroVerse变得更好！无论是通过代码、设计、错误报告还是功能想法，我们都重视您的意见。查看我们的问题或提交拉取请求来开始。让我们一起增强AstroVerse！
