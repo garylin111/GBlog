@@ -56,7 +56,7 @@ export const SocialLinks = [
     label: "GitHub",
   },
   {
-    href: "https://github.com/garylin111",
+    href: "https://www.instagram.com/garylin413/",
     icon: "tabler:brand-instagram",
     label: "instagram",
   },
