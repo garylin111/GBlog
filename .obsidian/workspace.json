@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84982ba0e4faf264",
+        "id": "849540c8c202cead",
         "type": "tabs",
         "children": [
           {
-            "id": "e8930ab15575547b",
+            "id": "e0c6524b80611764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/中國大鍬的飼育學習.md",
+                "file": "src/content/posts/拖延症的解藥1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rss.xml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/中國大鍬的飼育學習.md",
+                "file": "src/content/posts/拖延症的解藥1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/posts/中國大鍬的飼育學習.md",
+                "file": "src/content/posts/拖延症的解藥1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/中國大鍬的飼育學習.md"
+                "file": "src/content/posts/拖延症的解藥1.md"
               }
             }
           }
@@ -146,17 +146,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8930ab15575547b",
+  "active": "e0c6524b80611764",
   "lastOpenFiles": [
-    "src/content/posts/My first blog.md",
+    "src/content/posts/拖延症的解藥2.md",
+    "src/content/posts/拖延症的解藥1.md",
+    "src/content/posts/origami_design_secret.md",
+    "src/content/posts/Prosopocoilus motschulskii.md",
+    "src/content/posts/莫瑟里黃金鬼飼育學習.md",
+    "src/content/posts/aboutme.md",
+    "src/content/posts/C-sharp學習筆記.md",
+    "src/content/posts/HF叉角的飼養學習.md",
     "src/content/posts/中國大鍬的飼育學習.md",
+    "node_modules/@astrojs/rss/README.md",
+    "dist/~partytown/partytown.js",
+    "dist/~partytown/partytown-sw.js",
+    "dist/~partytown/partytown-media.js",
+    "dist/~partytown/partytown-atomics.js",
+    "dist/~partytown",
+    "dist/pagefind/fragment/en_fc74fcc.pf_fragment",
+    "dist/pagefind/fragment/en_f939cc8.pf_fragment",
+    "dist/pagefind/fragment/en_f79b256.pf_fragment",
+    "dist/pagefind/fragment/en_e72e1b1.pf_fragment",
+    "dist/pagefind/fragment/en_e1a89bd.pf_fragment",
+    "dist/screenshot.webp",
+    "dist/favicon.svg",
+    "dist/blog-placeholder-about.avif",
+    "dist/blog-placeholder-5.avif",
+    "dist/blog-placeholder-4.avif",
+    "dist/blog-placeholder-3.avif",
+    "dist/blog-placeholder-2.avif",
+    "dist/blog-placeholder-1.avif",
+    "dist/astroverse-lighthouse-score.svg",
+    "node_modules/@emnapi/runtime/README.md",
+    "node_modules/tslib/SECURITY.md",
+    "node_modules/tslib/README.md",
+    "node_modules/source-map-js/README.md",
+    "src/content/posts/最想飼養的鍬形蟲排名.md",
+    "src/content/posts/My first blog.md",
     "中國大鍬 2.jpg",
-    "中國大鍬 1.jpg",
-    "中國大鍬.jpg",
-    "0640a71eab994fd5a0aad71b1528b45 2.jpg",
-    "0640a71eab994fd5a0aad71b1528b45 1.jpg",
-    "0640a71eab994fd5a0aad71b1528b45.jpg",
-    "未命名.md",
-    "public/astroverse-lighthouse-score.svg"
+    "未命名.md"
   ]
 }

@@ -2,19 +2,19 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "AstroVerse";
-export const SITE_TITLE = "AstroVerse";
+export const BRAND_NAME = "Gary's Blog";
+export const SITE_TITLE = "Gary's Blog";
 export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "AstroVerse - All Tags";
+export const Tags_TITLE = "Gary's Blog - All Tags";
 export const Tags_DESCRIPTION =
-  "AstroVerse - All tags and the count of articles related to each tag";
+  "Gary's Blog - All tags and the count of articles related to each tag";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `All articles on '${tag}' tag in AstroVerse`,
+    title: `All articles on '${tag}' tag in Gary's Blog`,
     description: `Explore articles about ${tag} for different perspectives and in-depth analysis.`,
   };
 }
@@ -22,8 +22,8 @@ export function getTagMetadata(tag: string) {
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `All articles in '${category}' category in AstroVerse`,
-    description: `Browse all articles under the ${category} category in AstroVerse`,
+    title: `All articles in '${category}' category in Gary's Blog`,
+    description: `Browse all articles under the ${category} category in Gary's Blog`,
   };
 }
 
@@ -37,8 +37,8 @@ export const HeaderLinks = [
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
-  { href: "/posts/tailwind-typography/", title: "Tailwind" },
+  { href: "/posts/aboutme/", title: "關於我" },
+  // { href: "/posts/tailwind-typography/", title: "Tailwind" },
   { href: "/tags/", title: "Tags" },
 ];
 
@@ -46,14 +46,24 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/astrodotbuild",
-    icon: "tabler:brand-twitter",
-    label: "Twitter",
+    href: "https://space.bilibili.com/21138820",
+    icon: "tabler:brand-bilibili",
+    label: "bilibili",
   },
   {
-    href: "https://github.com/isooosi",
+    href: "https://github.com/garylin111",
     icon: "tabler:brand-github",
     label: "GitHub",
+  },
+  {
+    href: "https://github.com/garylin111",
+    icon: "tabler:brand-instagram",
+    label: "instagram",
+  },
+  {
+    href: "https://tieba.baidu.com/home/main?un=%E7%AD%89%E4%BC%9A%E5%90%83%E5%95%A5%E5%91%A2&fr=home&id=tb.1.1f037584.eLjFEx48FacT5qO_zUxRCw",
+    icon: "tabler:brand-baidu",
+    label: "baidu",
   },
 ];
 
